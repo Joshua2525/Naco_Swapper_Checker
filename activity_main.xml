@@ -31,7 +31,7 @@
 
 
 
-    <!-- CONTAINER EDITTEXT AND CHECKBOX-->
+    <!-- CONTAINER EDITTEXT AND BUTTON-->
     <LinearLayout
         android:id="@+id/firstbox"
         android:layout_below="@+id/Title"
@@ -53,7 +53,7 @@
             android:textColor="@color/white"
             android:textColorHint="@color/white" />
 
-        <!--CHECKBOX-->
+        <!--BUTTON-->
 
         <Button
             android:id="@+id/buttonSwap"
@@ -88,7 +88,7 @@
             android:textColor="@color/white"
             android:textColorHint="@color/white" />
 
-        <!--CHECKBOX-->
+        <!--BUTTON-->
 
         <Button
             android:id="@+id/buttonCheck"
